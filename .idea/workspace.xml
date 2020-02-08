@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ae100db-e7a0-4cfc-afb0-871e178b4615" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XJ2yfXMPOtShAORs6Jf345O44n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Gradle.UnionTest.shouldConnect">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="Notes.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnionTest.shouldConnect" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;UnionTest.shouldConnect&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.UnionTest.shouldConnect" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ae100db-e7a0-4cfc-afb0-871e178b4615" name="Default Changelist" comment="" />
+      <created>1580750132856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580750132856</updated>
+      <workItem from="1580750138334" duration="17107000" />
+      <workItem from="1580890052698" duration="3222000" />
+      <workItem from="1580903319816" duration="2647000" />
+      <workItem from="1580991311914" duration="1865000" />
+      <workItem from="1581119146351" duration="5788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="124" width="800" height="677" key="#Project_Structure" timestamp="1581120402000">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="428" y="124" width="800" height="677" key="#Project_Structure/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1581120402000" />
+    <state x="641" y="175" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1580894368952">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="641" y="175" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1533.873@67.27.1533.873" timestamp="1580894368952" />
+    <state x="460" y="27" width="727" height="873" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581120839484">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="460" y="27" width="727" height="873" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1581120839484" />
+    <state x="563" y="193" width="530" height="538" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581120215804">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="563" y="193" width="530" height="538" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1581120215804" />
+    <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581120237471">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1581120237471" />
+    <state width="1487" height="240" key="GridCell.Tab.0.bottom" timestamp="1581125075869">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="240" key="GridCell.Tab.0.bottom/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1581125075869" />
+    <state width="1487" height="218" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1580911213812" />
+    <state width="1874" height="218" key="GridCell.Tab.0.bottom/67.27.3453.1053@67.27.3453.1053" timestamp="1580821498247" />
+    <state width="1487" height="240" key="GridCell.Tab.0.center" timestamp="1581125075869">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="240" key="GridCell.Tab.0.center/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1581125075869" />
+    <state width="1487" height="218" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1580911213811" />
+    <state width="1874" height="218" key="GridCell.Tab.0.center/67.27.3453.1053@67.27.3453.1053" timestamp="1580821498247" />
+    <state width="1487" height="240" key="GridCell.Tab.0.left" timestamp="1581125075868">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="240" key="GridCell.Tab.0.left/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1581125075868" />
+    <state width="1487" height="218" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1580911213811" />
+    <state width="1874" height="218" key="GridCell.Tab.0.left/67.27.3453.1053@67.27.3453.1053" timestamp="1580821498246" />
+    <state width="1487" height="240" key="GridCell.Tab.0.right" timestamp="1581125075869">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="240" key="GridCell.Tab.0.right/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1581125075869" />
+    <state width="1487" height="218" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1580911213811" />
+    <state width="1874" height="218" key="GridCell.Tab.0.right/67.27.3453.1053@67.27.3453.1053" timestamp="1580821498247" />
+    <state x="2049" y="174" width="1024" height="845" key="SettingsEditor" timestamp="1580816498084">
+      <screen x="67" y="27" width="3453" height="1053" />
+    </state>
+    <state x="2049" y="174" width="1024" height="845" key="SettingsEditor/67.27.3453.1053@67.27.3453.1053" timestamp="1580816498084" />
+    <state x="605" y="242" width="446" height="440" key="chooseDestDirectoryDialog" timestamp="1581120544628">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="605" y="242" width="446" height="440" key="chooseDestDirectoryDialog/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1581120544628" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1581119262860">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873/1600.0.1920.1080@67.27.1533.873" timestamp="1581119262860" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1580991363644" />
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1580894535123">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup/67.27.1533.873@67.27.1533.873" timestamp="1580894535123" />
+  </component>
+</project>
