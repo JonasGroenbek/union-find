@@ -112,8 +112,6 @@ public class UnionFind implements Unions {
 class main {
     public static void main(String[] args) {
             UnionFind uf = new UnionFind(10);
-            uf.union(1, 2);
-            uf.union(3, 2);
-            System.out.println(uf.count());
+            //Test...
     }
 }
