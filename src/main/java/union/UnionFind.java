@@ -83,30 +83,14 @@ public class UnionFind implements Unions {
      * @return whether or not the two nodes are in the same tree
      */
     @Override
-    public boolean connected(int p, int q) {
-        int pRoot = p;
-        int qRoot = q;
-        while(unions[p] != p){
-            p = unions[p];
-            pRoot =  p;
-        }
-
-        while(unions[q] != q){
-            q = unions[q];
-            qRoot = q;
-        }
-
-        return pRoot == qRoot;
-    }
+    public boolean connected(int p, int q) { return find(p) == find(q); }
 
     /**
      * gets the amount of sets
      * @return count
      */
     @Override
-    public int count() {
-        return count;
-    }
+    public int count() { return count; }
 }
 
 class main {
