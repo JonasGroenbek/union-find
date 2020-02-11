@@ -72,9 +72,7 @@ public class UnionFind implements Unions {
      * @param p node index
      * @throws IllegalArgumentException
      */
-    private void fit(int p){
-        if ( p >= unions.length || p < 0 ) throw new IllegalArgumentException("index does not exist");
-    }
+    private void fit(int p){ if ( p >= unions.length || p < 0 ) throw new IllegalArgumentException("index does not exist"); }
 
     /**
      *
