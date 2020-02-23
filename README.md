@@ -5,7 +5,7 @@
   The weighted union find algorithm runs on a fixed size "tree-like" data structure, that canonically gets implemented over arrays.
   The time complexities of the algorithm is highly competitive, which is achieved, through restriction.
 ##### Assignment
-Implement implementations of the Union-find algorithms:
+Implement of the Union-find algorithms:
 • Quick-union
 • Weighted-union
 
