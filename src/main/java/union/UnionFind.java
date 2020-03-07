@@ -21,17 +21,6 @@ public class UnionFind implements Unions {
         }
     }
 
-    /*
-    public int nodeDepth(int node){
-        int depth = 1;
-        while(union[node] != node){
-            node = union[node];
-            depth = depth + 1;
-        }
-        return depth;
-    }
-    */
-
     /**
      * Unifying two nodes and prioritize to point the shallow root to the deep root, should depth difference exist.
      * @param p node p
